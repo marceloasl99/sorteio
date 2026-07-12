@@ -1,4 +1,4 @@
-# Team Draw
+# Team Draw / Sorteio
 
 A lightweight, mobile-friendly web application that randomly distributes selected participants among selected locations.
 
