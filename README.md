@@ -34,7 +34,6 @@ When published, the project contains the following pages:
 ├── sp.html
 ├── ma.html
 ├── nomes.txt
-├── nomex.txt
 └── README.md
 ```
 
@@ -85,7 +84,7 @@ fetch('nomes.txt')
 
 For this reason, `nomes.txt` must remain in the same directory as `sp.html` and `ma.html`.
 
-#### `nomex.txt`
+#### `nomes.txt`
 
 An example participant list containing generic names. This file is provided only as a template and is not loaded automatically by the application.
 
@@ -239,7 +238,6 @@ index.html
 sp.html
 ma.html
 nomes.txt
-nomex.txt
 README.md
 ```
 
@@ -288,7 +286,6 @@ public_html/
 ├── sp.html
 ├── ma.html
 ├── nomes.txt
-├── nomex.txt
 └── README.md
 ```
 
